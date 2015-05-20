@@ -12,14 +12,14 @@ Data has been normalized (by UCI) so that every value in the dataset is between 
 VARIABLE DESCRIPTIONS
 Variable			UNITS	Description																		
 
-Test_Subject			n/a	Test subject idenfied by number (1-30) 
-Activity			n/a	Activity being performed at the time of test; can be one of the following: laying, sitting, standing, walking, walking upstairs, walking downstairs    
-tBodyAcc-mean()-X		g	Time domain body acceleration mean in the x direction
-tBodyAcc-mean()-Y		g	Time domain body acceleration mean in the y direction
-tBodyAcc-mean()-Z		g	Time domain body acceleration mean in the z direction
-tBodyAcc-std()-X		g	Time domain body acceleration standard deviation in the x direction
-tBodyAcc-std()-Y		g	Time domain body acceleration standard deviation in the y direction
-tBodyAcc-std()-Z		g	Time domain body acceleration standard deviation in the z direction
+Test_Subject			        n/a	Test subject idenfied by number (1-30) 
+Activity			            n/a	Activity being performed at the time of test  
+tBodyAcc-mean()-X	      	g	Time domain body acceleration mean in the x direction
+tBodyAcc-mean()-Y	      	g	Time domain body acceleration mean in the y direction
+tBodyAcc-mean()-Z		      g	Time domain body acceleration mean in the z direction
+tBodyAcc-std()-X		      g	Time domain body acceleration standard deviation in the x direction
+tBodyAcc-std()-Y		      g	Time domain body acceleration standard deviation in the y direction
+tBodyAcc-std()-Z		      g	Time domain body acceleration standard deviation in the z direction
 tGravityAcc-mean()-X		g	Time domain gravity acceleration mean in the x direction
 tGravityAcc-mean()-Y		g	Time domain gravity acceleration mean in the y direction
 tGravityAcc-mean()-Z		g	Time domain gravity acceleration mean in the z direction
@@ -95,3 +95,5 @@ fBodyBodyGyroJerkMag-std()	rad/sec	Frequency domain body gyroscope jerk magnitud
 fBodyBodyGyroJerkMag-meanFreq()	rad/sec	Frequency domain body gyroscope jerk magnitude mean frequency
 
 NOTE: g = standard gravity units
+
+; can be one of the following: laying, sitting, standing, walking, walking upstairs, walking downstairs  
