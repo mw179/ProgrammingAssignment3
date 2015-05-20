@@ -1,17 +1,14 @@
-UCI HAR Dataset Code Book
+##UCI HAR Dataset Code Book
 
-
-DATA DESCRIPTION
+#DATA DESCRIPTION
 
 Data was obtained by UCI from test subjects wearing the Samsung Galaxy II smart phone. Data was collected using the built-in acceleromoters in the phone while test subjects were performing various activites. 
 
-
-DATA TRANSFORMATIONS
+#DATA TRANSFORMATIONS
 
 Data has been normalized (by UCI) so that every value in the dataset is between -1 and 1. 
 
-
-VARIABLE DESCRIPTIONS
+#VARIABLE DESCRIPTIONS
 
 |Variable                        |UNITS  | Description                                                                   |  
 | ------------------------------ | ----- | ----------------------------------------------------------------------------- |
