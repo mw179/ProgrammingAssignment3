@@ -13,9 +13,9 @@ Data has been normalized (by UCI) so that every value in the dataset is between 
 
 VARIABLE DESCRIPTIONS
 
-Variable			UNITS Description																		
-
-1. Test_Subject			        n/a	Test subject idenfied by number (1-30) 
+|Variable               |UNITS| Description                                                 |  
+| --------------------- | --- | ----------------------------------------------------------- |
+|Test_Subject			      |n/a	| Test subject idenfied by number (1-30)                      | 
 2. Activity			            n/a	Activity being performed at the time of test
 1. tBodyAcc-mean()-X	        g	Time domain body acceleration mean in the x direction
 2. tBodyAcc-mean()-Y	      	g	Time domain body acceleration mean in the y direction
