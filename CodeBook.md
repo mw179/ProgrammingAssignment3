@@ -16,7 +16,7 @@ VARIABLE DESCRIPTIONS
 |Variable                        |UNITS  | Description                                                                   |  
 | ------------------------------ | ----- | ----------------------------------------------------------------------------- |
 |Test_Subject			               |n/a	   | Test subject idenfied by number (1-30)                                        |     
-|Activity			                   |n/a	   | Activity being performed at the time of test                                  |
+|Activity			                   |n/a	   | Activity being performed at the time of test; can be one of the following: laying, sitting, standing, walking, walking upstairs, walking downstairs                                   |
 |tBodyAcc-mean()-X	             |g      | Time domain body acceleration mean in the x direction                         |
 |tBodyAcc-mean()-Y	             |g      | Time domain body acceleration mean in the y direction                         |
 |tBodyAcc-mean()-Z		           |g      | Time domain body acceleration mean in the z direction                         |
@@ -99,4 +99,4 @@ VARIABLE DESCRIPTIONS
 
 NOTE: g = standard gravity units
 
-; can be one of the following: laying, sitting, standing, walking, walking upstairs, walking downstairs  
+ 
