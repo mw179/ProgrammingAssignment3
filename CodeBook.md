@@ -19,10 +19,10 @@ Test_Subject			        n/a	Test subject idenfied by number (1-30)
 
 Activity			            n/a	Activity being performed at the time of test
 
-1. tBodyAcc-mean()-X	      	g	Time domain body acceleration mean in the x direction
-2. tBodyAcc-mean()-Y	      	g	Time domain body acceleration mean in the y direction
-tBodyAcc-mean()-Z		      g	Time domain body acceleration mean in the z direction
-tBodyAcc-std()-X		      g	Time domain body acceleration standard deviation in the x direction
+1 tBodyAcc-mean()-X	      	g	Time domain body acceleration mean in the x direction
+2 tBodyAcc-mean()-Y	      	g	Time domain body acceleration mean in the y direction
+3 tBodyAcc-mean()-Z		      g	Time domain body acceleration mean in the z direction
+4 tBodyAcc-std()-X		      g	Time domain body acceleration standard deviation in the x direction
 tBodyAcc-std()-Y		      g	Time domain body acceleration standard deviation in the y direction
 tBodyAcc-std()-Z		      g	Time domain body acceleration standard deviation in the z direction
 tGravityAcc-mean()-X		g	Time domain gravity acceleration mean in the x direction
