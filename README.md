@@ -7,6 +7,7 @@ In order for the script to work, the current working directory must be the "UCI 
 The objective of this script is to create a "tidy" dataset (as defined in the Getting and Cleaning Data class) from the UCI HAR Dataset.
 
 The script does the following:
+
 1. Reads the features from the "features.txt" file 
 2. Reads the training dataset and adds the features data as column headers
 3. Reads the test subject names and activity names and adds them (and column headings) as the first two columns of the training dataset 
