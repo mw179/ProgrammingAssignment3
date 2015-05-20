@@ -19,41 +19,41 @@ Test_Subject			        n/a	Test subject idenfied by number (1-30)
 
 Activity			            n/a	Activity being performed at the time of test
 
-1 tBodyAcc-mean()-X	      	g	Time domain body acceleration mean in the x direction
-2 tBodyAcc-mean()-Y	      	g	Time domain body acceleration mean in the y direction
-3 tBodyAcc-mean()-Z		      g	Time domain body acceleration mean in the z direction
-4 tBodyAcc-std()-X		      g	Time domain body acceleration standard deviation in the x direction
-tBodyAcc-std()-Y		      g	Time domain body acceleration standard deviation in the y direction
-tBodyAcc-std()-Z		      g	Time domain body acceleration standard deviation in the z direction
-tGravityAcc-mean()-X		g	Time domain gravity acceleration mean in the x direction
-tGravityAcc-mean()-Y		g	Time domain gravity acceleration mean in the y direction
-tGravityAcc-mean()-Z		g	Time domain gravity acceleration mean in the z direction
-tGravityAcc-std()-X		g	Time domain gravity acceleration standard deviation in the x direction
-tGravityAcc-std()-Y		g	Time domain gravity acceleration standard deviation in the y direction
-tGravityAcc-std()-Z		g	Time domain gravity acceleration standard deviation in the z direction
-tBodyAccJerk-mean()-X		g	Time domain body acceleration jerk mean in the x direction
-tBodyAccJerk-mean()-Y		g	Time domain body acceleration jerk mean in the y direction
-tBodyAccJerk-mean()-Z		g	Time domain body acceleration jerk mean in the z direction
-tBodyAccJerk-std()-X		g	Time domain body acceleration jerk standard deviation in the x direction
-tBodyAccJerk-std()-Y		g	Time domain body acceleration jerk standard deviation in the y direction
-tBodyAccJerk-std()-Z		g	Time domain body acceleration jerk standard deviation in the z direction
-tBodyGyro-mean()-X		rad/sec	Time domain body gyroscope mean in the x direction
-tBodyGyro-mean()-Y		rad/sec	Time domain body gyroscope mean in the y direction
-tBodyGyro-mean()-Z		rad/sec	Time domain body gyroscope mean in the z direction
-tBodyGyro-std()-X		rad/sec	Time domain body gyroscope standard deviation in the x direction
-tBodyGyro-std()-Y		rad/sec	Time domain body gyroscope standard deviation in the y direction
-tBodyGyro-std()-Z		rad/sec	Time domain body gyroscope standard deviation in the z direction
-tBodyGyroJerk-mean()-X		rad/sec	Time domain body gyroscope jerk mean in the x direction
-tBodyGyroJerk-mean()-Y		rad/sec	Time domain body gyroscope jerk mean in the y direction
-tBodyGyroJerk-mean()-Z		rad/sec	Time domain body gyroscope jerk mean in the z direction
-tBodyGyroJerk-std()-X		rad/sec	Time domain body gyroscope jerk standard deviation in the x direction
-tBodyGyroJerk-std()-Y		rad/sec	Time domain body gyroscope jerk standard deviation in the y direction
-tBodyGyroJerk-std()-Z		rad/sec	Time domain body gyroscope jerk standard deviation in the z direction
-tBodyAccMag-mean()		g	Time domain body acceleration magnitude mean
-tBodyAccMag-std()		g	Time domain body standard deviation magnitude mean
-tGravityAccMag-mean()		g	Time domain gravity acceleration magnitude mean
-tGravityAccMag-std()		g	Time domain gravity acceleration magnitude standard deviation
-tBodyAccJerkMag-mean()		g	Time domain body acceleration jerk magnitude mean
+1. tBodyAcc-mean()-X	      	g	Time domain body acceleration mean in the x direction
+2. tBodyAcc-mean()-Y	      	g	Time domain body acceleration mean in the y direction
+3. tBodyAcc-mean()-Z		      g	Time domain body acceleration mean in the z direction
+4. tBodyAcc-std()-X		      g	Time domain body acceleration standard deviation in the x direction
+5. tBodyAcc-std()-Y		      g	Time domain body acceleration standard deviation in the y direction
+6. tBodyAcc-std()-Z		      g	Time domain body acceleration standard deviation in the z direction
+7. tGravityAcc-mean()-X		g	Time domain gravity acceleration mean in the x direction
+8. tGravityAcc-mean()-Y		g	Time domain gravity acceleration mean in the y direction
+9. tGravityAcc-mean()-Z		g	Time domain gravity acceleration mean in the z direction
+10. tGravityAcc-std()-X		g	Time domain gravity acceleration standard deviation in the x direction
+11. tGravityAcc-std()-Y		g	Time domain gravity acceleration standard deviation in the y direction
+12. tGravityAcc-std()-Z		g	Time domain gravity acceleration standard deviation in the z direction
+13. tBodyAccJerk-mean()-X		g	Time domain body acceleration jerk mean in the x direction
+14. tBodyAccJerk-mean()-Y		g	Time domain body acceleration jerk mean in the y direction
+15. tBodyAccJerk-mean()-Z		g	Time domain body acceleration jerk mean in the z direction
+16. tBodyAccJerk-std()-X		g	Time domain body acceleration jerk standard deviation in the x direction
+17. tBodyAccJerk-std()-Y		g	Time domain body acceleration jerk standard deviation in the y direction
+18. tBodyAccJerk-std()-Z		g	Time domain body acceleration jerk standard deviation in the z direction
+19. tBodyGyro-mean()-X		rad/sec	Time domain body gyroscope mean in the x direction
+20. tBodyGyro-mean()-Y		rad/sec	Time domain body gyroscope mean in the y direction
+21. tBodyGyro-mean()-Z		rad/sec	Time domain body gyroscope mean in the z direction
+22. tBodyGyro-std()-X		rad/sec	Time domain body gyroscope standard deviation in the x direction
+23. tBodyGyro-std()-Y		rad/sec	Time domain body gyroscope standard deviation in the y direction
+24. tBodyGyro-std()-Z		rad/sec	Time domain body gyroscope standard deviation in the z direction
+25. tBodyGyroJerk-mean()-X		rad/sec	Time domain body gyroscope jerk mean in the x direction
+26. tBodyGyroJerk-mean()-Y		rad/sec	Time domain body gyroscope jerk mean in the y direction
+27. tBodyGyroJerk-mean()-Z		rad/sec	Time domain body gyroscope jerk mean in the z direction
+28. tBodyGyroJerk-std()-X		rad/sec	Time domain body gyroscope jerk standard deviation in the x direction
+29. tBodyGyroJerk-std()-Y		rad/sec	Time domain body gyroscope jerk standard deviation in the y direction
+30. tBodyGyroJerk-std()-Z		rad/sec	Time domain body gyroscope jerk standard deviation in the z direction
+31. tBodyAccMag-mean()		g	Time domain body acceleration magnitude mean
+32. tBodyAccMag-std()		g	Time domain body standard deviation magnitude mean
+33. tGravityAccMag-mean()		g	Time domain gravity acceleration magnitude mean
+34. tGravityAccMag-std()		g	Time domain gravity acceleration magnitude standard deviation
+35. tBodyAccJerkMag-mean()		g	Time domain body acceleration jerk magnitude mean
 tBodyAccJerkMag-std()		g	Time domain body acceleration jerk magnitude standard deviation
 tBodyGyroMag-mean()		rad/sec	Time domain body gyroscope magnitude mean
 tBodyGyroMag-std()		rad/sec	Time domain body gyroscope magnitude standard deviation
