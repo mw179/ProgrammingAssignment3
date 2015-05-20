@@ -6,6 +6,7 @@ In order for the script to work, the current working directory must be the "UCI 
 #####OBJECTIVE
 The objective of this script is to create a "tidy" dataset (as defined in the Getting and Cleaning Data class) from the UCI HAR Dataset.
 
+#####DESCRIPTION
 The script does the following:
 
 1. Reads the features from the "features.txt" file 
